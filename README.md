@@ -7,6 +7,8 @@
 <img align="center" alt="CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
 <img align="center" alt="Bootstrap" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="center" alt="SQL" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="SQL" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="center" alt="SQL" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original-wordmark.svg" />
 </h1>
 </div>
 
