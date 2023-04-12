@@ -11,12 +11,6 @@
 </h1>
 </div>
 
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=DreamOutLoud365&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
-
-  #
-
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/DreamOutLoud365">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DreamOutLoud365&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -24,5 +18,10 @@
   <a href="https://github.com/DreamOutLoud365%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DreamOutLoud365&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOutLoud365&layout=compact&langs_count=7&theme=radical%22/%3E
+   </div>
 
+  #
+ 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=DreamOutLoud365&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
  ![Snake animation](https://github.com/DreamOutLoud365/DreamOutLoud365/blob/output/github-contribution-grid-snake.svg) 
