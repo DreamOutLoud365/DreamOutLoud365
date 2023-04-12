@@ -1,4 +1,4 @@
- <div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <h1>Hey there, I'm Afonso 👋 <br>
     <br>
 <img align="center" alt="Csharp" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -8,9 +8,8 @@
 <img align="center" alt="SQL" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="Arduino" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="center" alt="Win" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</h1>
-</div>
 
+    
 </h1>
 </div>
 
@@ -19,8 +18,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DreamOutLoud365&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOutLoud365&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+  
   #
- 
+
  ![Snake animation](https://github.com/DreamOutLoud365/DreamOutLoud365/blob/output/github-contribution-grid-snake.svg) 
  </div>
